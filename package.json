@@ -1,0 +1,12 @@
+{
+  "name": "operaciones-es6",
+  "version": "1.0.0",
+  "description": "Asignacion en equipo",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "operaciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
