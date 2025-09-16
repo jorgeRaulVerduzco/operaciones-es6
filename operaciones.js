@@ -16,3 +16,11 @@ export function dividir(a, b) {
   }
   return a / b;
 }
+
+export function pi() {
+  return Math.PI;
+}
+
+export function modulo(a, b) {
+  return a % b;
+}
